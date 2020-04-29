@@ -1,0 +1,20 @@
+{
+  "name": "cool-app",
+  "version": "1.0.0",
+  "description": "first app deployed on heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nimit1428/cool-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nimit1428/cool-app/issues"
+  },
+  "homepage": "https://github.com/Nimit1428/cool-app#readme"
+}
