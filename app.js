@@ -1,20 +1,22 @@
 const cors = require("cors");
+const path = require("path");
 const express = require("express");
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3001;
 
 //mongoose connecting to mongoDB
 const connectDB = require("./DB/conection");
 const user = require("./DB/User");
 connectDB();
 
-app.get("/", (req, res) => {
-  res.send("<h1>HEllo sucKerS newing! still goood</h1>");
-});
-
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 app.use(cors());
+
+app.use(express.static("build"));
+app.get("*", (req, res) => {
+  res.sendFile(path.resolve(__dirname, "build", "index.html"));
+});
 
 //routes called
 const loginRoute = require("./routes/login.routes");
