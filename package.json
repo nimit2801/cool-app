@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Nimit1428/cool-app/issues"
   },
-  "homepage": "https://github.com/Nimit1428/cool-app#readme"
+  "homepage": "https://github.com/Nimit1428/cool-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
