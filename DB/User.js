@@ -20,6 +20,10 @@ const newUser = new mongoose.Schema({
   department: {
     type: String,
   },
+  registered_date: {
+    type: Date,
+    default: Date.now,
+  },
 });
 
 module.exports = User = mongoose.model("newUser", newUser);

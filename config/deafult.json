@@ -1,0 +1,4 @@
+{
+  "ATLAS_URI": "mongodb+srv://Nimit2801:Nimit2801@cluster-tb0ny.mongodb.net/the-college-app?retryWrites=true&w=majority",
+  "jwtSecret": "somerandomkey"
+}
