@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25847e1ee8bbb61ee3f67299a2194ddf",
+    "revision": "3d7b4b33a52e28f7a61d241e50917273",
     "url": "/index.html"
   },
   {
-    "revision": "fa13a6e9221cb208a967",
+    "revision": "2abb45fc46a8c270cd05",
     "url": "/static/css/2.50933a7d.chunk.css"
   },
   {
-    "revision": "d7f31040bbf631c46ea0",
-    "url": "/static/css/main.bc1f92cc.chunk.css"
+    "revision": "8c60690ffd3234a287b9",
+    "url": "/static/css/main.54be89a0.chunk.css"
   },
   {
-    "revision": "fa13a6e9221cb208a967",
-    "url": "/static/js/2.d5a910cd.chunk.js"
+    "revision": "2abb45fc46a8c270cd05",
+    "url": "/static/js/2.1893e562.chunk.js"
   },
   {
     "revision": "3a08a7c8f8e6231522abe29a929e6912",
-    "url": "/static/js/2.d5a910cd.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1893e562.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d7f31040bbf631c46ea0",
-    "url": "/static/js/main.67e0be76.chunk.js"
+    "revision": "8c60690ffd3234a287b9",
+    "url": "/static/js/main.868c972d.chunk.js"
   },
   {
     "revision": "dfd7f4b93f4fd0b98e03",
@@ -56,6 +56,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/dsc.569e1296.png"
   },
   {
+    "revision": "88df72026dd55e57cdfc66c122f68db7",
+    "url": "/static/media/main1.88df7202.jpg"
+  },
+  {
+    "revision": "2da05c90099e48a16e093b1fcac574be",
+    "url": "/static/media/main2.2da05c90.jpg"
+  },
+  {
+    "revision": "ce79fbf7690ff359f8564b604ba24127",
+    "url": "/static/media/main3.ce79fbf7.jpg"
+  },
+  {
     "revision": "3781301a789680b45fae8780fdeff84a",
     "url": "/static/media/microsoft.3781301a.png"
   },
@@ -80,7 +92,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/notes4.b65858f5.png"
   },
   {
-    "revision": "1d0b42f1f465054012a60ce11a788e53",
-    "url": "/static/media/user1.1d0b42f1.jpg"
+    "revision": "bb28f3400ee4d81feb6381bee8feb185",
+    "url": "/static/media/pattern.bb28f340.jpg"
+  },
+  {
+    "revision": "3ea05762bbf8917379ad4b9abf52a5a9",
+    "url": "/static/media/user1.3ea05762.jpg"
   }
 ]);
